@@ -10,4 +10,4 @@ I'm learning how the web works by building something real.
 
 [Find out more about me](about.md)
 
-[my projects](projects.md)
+[my projects](Projects.md)
